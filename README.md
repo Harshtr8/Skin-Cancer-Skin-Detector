@@ -1,3 +1,5 @@
+![types-of-skin-cancer](https://github.com/user-attachments/assets/faa94019-c60a-467e-98f5-9e14818d0d79)
+![skinchart](https://github.com/user-attachments/assets/3b4ebf27-9137-4241-9b67-3a00ff27143f)
 ## Skin-Cancer-Detection
 We know healthcare professionals face countless decisions daily, so we've created a simple but powerful tool to support your clinical judgment. Think of it as having a helpful second opinion right at your fingertips.
 Here's what makes DermHelper special:
@@ -11,6 +13,7 @@ We built this because we believe modern technology should make healthcare profes
 Would you like to know more about how it could fit into your workflow, or shall we dive right in and give it a try?
 (Note: We went with a friendly but professional tone here, avoiding heavy medical jargon while maintaining credibility. I can adjust the tone further if you'd like it more casual or more formal.)
 https://arxiv.org/abs/1803.10417
+Dataset:https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 What Is Skin Cancer?
 
 Skin cancer is the out-of-control growth of abnormal cells in the epidermis, the outermost skin layer, caused by unrepaired DNA damage that triggers mutations. These mutations lead the skin cells to multiply rapidly and form malignant tumors. The main types of skin cancer are basal cell carcinoma (BCC), squamous cell carcinoma (SCC), melanoma and Merkel cell carcinoma (MCC).

@@ -1,3 +1,4 @@
+![Screenshot 2024-11-11 024333](https://github.com/user-attachments/assets/2d9eb93e-76a6-415d-9419-9392c2729000)
 ![types-of-skin-cancer](https://github.com/user-attachments/assets/faa94019-c60a-467e-98f5-9e14818d0d79)
 ![skinchart](https://github.com/user-attachments/assets/3b4ebf27-9137-4241-9b67-3a00ff27143f)
 ## Skin-Cancer-Detection
